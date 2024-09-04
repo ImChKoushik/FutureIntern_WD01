@@ -1,3 +1,3 @@
 # Calculator
-Calculator with amazing design using html and css only You just fall in love with design
-![calciHtmlLogo](https://user-images.githubusercontent.com/64765400/93598016-e4e3a900-f970-11ea-9423-19b3d0ef0873.png)
+Here I created an Simple yet good looking calculator website for basic purposes . I used HTML and CSS for this Task.
+![Screenshot 2024-09-04 115005](https://github.com/user-attachments/assets/bc733d2c-57ba-426f-af87-74723ba37a75))
